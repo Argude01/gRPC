@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yx9/XdEHDIWoagmq9qYG+BzAC48EpFWt3pOv/H4CNanRqr40Q+9AH6Un9fRsSTLDptWuDQa5J5+PTxWVbS6HCQ==",
+  "dgSpecHash": "SkHGZc0ZS3Z3lGocNQQ2Hm34ldY+MPicvPZh8aklkkUOv8FnL0ZoqQWAr6Fp629dhxWPVxUfQel7Odhc0P9LNg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\gRPC\\gRPCtemp\\gRPCtemp.csproj",
+  "projectFilePath": "D:\\Code\\gRPC\\gRPCbasics\\gRPCtemp\\gRPCtemp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wdgutierrez\\.nuget\\packages\\google.protobuf\\3.19.1\\google.protobuf.3.19.1.nupkg.sha512",
     "C:\\Users\\wdgutierrez\\.nuget\\packages\\grpc\\2.42.0\\grpc.2.42.0.nupkg.sha512",

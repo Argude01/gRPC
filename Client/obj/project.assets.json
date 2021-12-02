@@ -250,11 +250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\gRPC\\Client\\Client.csproj",
+      "projectUniqueName": "D:\\Code\\gRPC\\gRPCbasics\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "D:\\Code\\gRPC\\Client\\Client.csproj",
+      "projectPath": "D:\\Code\\gRPC\\gRPCbasics\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\wdgutierrez\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\gRPC\\Client\\obj\\",
+      "outputPath": "D:\\Code\\gRPC\\gRPCbasics\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
